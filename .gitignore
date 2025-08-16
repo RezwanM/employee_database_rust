@@ -1,0 +1,13 @@
+# Cargo build artifacts
+/target/
+
+# Executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Debug and profiling
+*.log
+*.prof
+*.out
